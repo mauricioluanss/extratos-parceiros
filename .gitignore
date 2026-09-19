@@ -1,0 +1,16 @@
+__pycache__/
+*.json
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.ini
+.env
+.vscode/
+.idea
+.venv/
+output/*
+debug/*
+docs/*
