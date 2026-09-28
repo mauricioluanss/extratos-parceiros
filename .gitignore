@@ -7,6 +7,7 @@ __pycache__/
 *.pyw
 *.pyz
 *.ini
+*.txt
 .env
 .vscode/
 .idea
